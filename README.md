@@ -1,6 +1,6 @@
 # HANDS-ON TOOLS
 
-http://osintframework.com
+<!-- http://osintframework.com
 
 ## Notes
 OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. Some of the sites included might require registration or offer more data for $$$, but you should be able to get at least a portion of the available information for no cost.
@@ -24,7 +24,9 @@ Watch or star the project on Github: https://github.com/lockfale/osint-framework
 ### Suggestions, Comments, Feedback
 Feedback or new tool suggestions are extremely welcome!  Please feel free to submit a pull request or open an issue on github or reach out on Twitter.
 
-### Contribute with a GitHub Pull Request
+ -->
+ 
+ ### Contribute with a GitHub Pull Request
 For new resources, please ensure that the site is available for public and free use.
 <ol start="1">
   <li>Update the arf.json file in the format shown below. If this isn't the first entry for a folder, add a comma to the last closing brace of the previous entry.</li>
@@ -44,8 +46,8 @@ For new resources, please ensure that the site is available for public and free 
 
 Thank you!
 
-## OSINT Framework Website
+<!-- ## OSINT Framework Website
 
 https://osintframework.com
 
-Happy Hunting!
+Happy Hunting! -->

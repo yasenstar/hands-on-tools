@@ -1,4 +1,15 @@
 {
+  "children": [
+  {
+    "children": [
+      {
+        "name": "UCI Machine Learning Repository - Datasets",
+        "type": "url",
+        "url": "https://archive.ics.uci.edu/ml/index.php"
+      }],
+    "name": "Machine Learning",
+    "type": "folder"
+  },
   {
     "children": [
       {

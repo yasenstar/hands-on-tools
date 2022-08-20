@@ -1,4 +1,4 @@
-# OSINT Framework
+# HANDS-ON TOOLS
 
 http://osintframework.com
 
